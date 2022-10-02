@@ -112,5 +112,4 @@ window.location.href= "next4.html";}
 function next5() {
 window.location.href= "next5.html";}
                
->>>>>>> 6cfd42840be7f5917ca98ed11c26ce04eae54dc6
         
