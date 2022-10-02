@@ -37,7 +37,7 @@ main.appendChild(movieEl)
      
         
             function scenetia() {
-              window.location.href= "scenetia.html";}
+              window.location.href= "index.html";}
               
               function next2() {
               window.location.href= "next2.html";}
