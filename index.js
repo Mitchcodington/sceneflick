@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 const main = document.getElementById("main")
 
